@@ -39,8 +39,6 @@ Kısa vadede aktif olarak yazılım geliştirdiğim bir ekipte yer alarak **tecr
 
 ## 📫 İletişim
 
-LinkedIn veya portfolyo bağlantısı istersen buraya ekleyebiliriz:
-
 - 📧 E-posta: `selimbugun7@gmail.com`
 - 💼 LinkedIn: [linkedin.com/in/selimbugun](https://linkedin.com/in/selimbugun)  
 
