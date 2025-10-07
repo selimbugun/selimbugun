@@ -19,19 +19,19 @@ Backend tarafında Python/Django bilgim var, ancak uzun süredir bu alanda aktif
 **Frontend:**  
 ![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react)  
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs)  
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat&logo=tailwindcss)
-![Zustand](https://img.shields.io/badge/-Zustand-764ABC?style=flat&logo=redux)
-![Shadcn](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwindcss)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat&logo=tailwindcss)  
+![Zustand](https://img.shields.io/badge/-Zustand-764ABC?style=flat&logo=redux)  
+![Shadcn](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwindcss)  
 
 
 **Backend:**  
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase)
 
 **Diğer:**  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+![TypeScript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)  
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)  
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visualstudiocode)
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visualstudiocode)  
 
 ---
 
