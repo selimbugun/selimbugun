@@ -5,7 +5,7 @@ Backend tarafında Python/Django bilgim var, ancak uzun süredir bu alanda aktif
 
 Şu ana kadar kişisel olarak bazı projeler geliştirdim:
 
-- 💼 Portfolyo Uygulaması
+- 💼 **Portfolyo Uygulaması**  
   Modern web teknolojileriyle geliştirilen, kişisel projelerimi, yeteneklerimi ve iletişim bilgilerimi sergileyen bir portfolyo uygulaması.
 
 
